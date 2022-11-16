@@ -1,0 +1,12 @@
+Por que e quando pilha ou fila é usada em vez de matrizes/listas?
+
+1. Usamos pilha ou fila em vez de arrays/listas quando queremos os elementos em uma ordem específica, ou seja, na ordem em que os colocamos (fila) ou na ordem inversa (pilha). 
+2. Filas e pilhas são dinâmicas enquanto arrays são estáticos. Portanto, quando exigimos memória dinâmica, usamos fila ou pilha sobre arrays.
+3. Pilhas e filas são usadas em arrays quando o acesso sequencial é necessário.
+4. Para remover com eficiência quaisquer dados do início (fila) ou do final (pilha) de uma estrutura de dados.
+5. Quando você quiser retirar os itens na mesma ordem em que os colocou, use uma fila (FIFO)
+6. Quando você precisar trazer as coisas na ordem oposta em que foram colocadas, use uma pilha (LIFO)
+
+Por que pilha ou fila são úteis em termos de complexidade de tempo?
+
+Porque adicionar ou remover itens na pilha e na fila leva tempo constante, porque você sabe exatamente onde eles estão localizados.
