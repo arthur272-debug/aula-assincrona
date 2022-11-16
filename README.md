@@ -11,7 +11,8 @@
 
 ## No contexto geral, qual a importância de cada tipo de estrutura de dados citada na apresentação no dia a dia dos programadores? Cite exemplos
 
-### Resposta: As estruturas de dados são muito utilizadas para o funcionamento eficiente e eficaz de diversos softwares, 
+### Resposta: 
+As estruturas de dados são muito utilizadas para o funcionamento eficiente e eficaz de diversos softwares, 
 pois permitem a administração de uma grande quantidade de informações, como também assumem a função de organizar, 
 relacionar e distribuir os diferentes tipos de dados em um determinado software.
 
