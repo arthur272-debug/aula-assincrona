@@ -1,1 +1,1 @@
-##As respostas dos exercícios estão tanto no code quanto no wiki(junto com as perguntas)
+As respostas dos exercícios estão também no wiki,juntamente com as perguntas.
